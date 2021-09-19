@@ -128,15 +128,16 @@ return(
              <div>
              <h2 className='coco'>Who we Are</h2>
              <p>
-                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus magni culpa odit consequuntur autem corrupti accusamus iusto eligendi sequi hic.
-                  consectetur adipisicing elit. Necessitatibus magni culpa odit consequuntur autem corrupti accusamus iusto eligendi sequi hic.
-             </p>
+             BLAZE FM is a proposed radio station aimed to kickstart in 2021
+             with a staff of 15 members on a plot area within the Unilorin Metropolis. The target audience
+             are primarily students, residents of ilorin and the adults (16-59 years)
+                 </p>
              </div>
              <div>
              <h2 className='coco'>What we do</h2>
              <p>
-                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus architecto sint voluptates rem sed, libero vel quas harum ipsum enim!
-                  consectetur adipisicing elit. Delectus architecto sint voluptates rem sed, libero vel quas harum ipsum enim!
+                 The focus of the establishment is to satisfy the urge of the audience in getting information
+                 , education and entertainment. Also, exciting programs which promises to fufill all of the primary (core) functions of Mass Communication along with  the sundry.
              </p>
              </div>
          </div>
