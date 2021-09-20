@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/blaze-fm/static/css/main.f8f01846.chunk.css",
-    "main.js": "/blaze-fm/static/js/main.b87885cf.chunk.js",
-    "main.js.map": "/blaze-fm/static/js/main.b87885cf.chunk.js.map",
-    "runtime-main.js": "/blaze-fm/static/js/runtime-main.50138271.js",
-    "runtime-main.js.map": "/blaze-fm/static/js/runtime-main.50138271.js.map",
-    "static/js/2.ba5ddd99.chunk.js": "/blaze-fm/static/js/2.ba5ddd99.chunk.js",
-    "static/js/2.ba5ddd99.chunk.js.map": "/blaze-fm/static/js/2.ba5ddd99.chunk.js.map",
-    "index.html": "/blaze-fm/index.html",
-    "static/css/main.f8f01846.chunk.css.map": "/blaze-fm/static/css/main.f8f01846.chunk.css.map",
-    "static/js/2.ba5ddd99.chunk.js.LICENSE.txt": "/blaze-fm/static/js/2.ba5ddd99.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/blaze-fm/static/media/PublicSans-VariableFont_wght.1db534b6.ttf",
-    "static/media/arrow.58156c59.png": "/blaze-fm/static/media/arrow.58156c59.png",
-    "static/media/bg1.d0a3e8fa.jpg": "/blaze-fm/static/media/bg1.d0a3e8fa.jpg",
-    "static/media/bg2.7d8a2d3c.jpg": "/blaze-fm/static/media/bg2.7d8a2d3c.jpg",
-    "static/media/blaze-fm.cc1662c8.mp3": "/blaze-fm/static/media/blaze-fm.cc1662c8.mp3",
-    "static/media/logo.ed0d4510.png": "/blaze-fm/static/media/logo.ed0d4510.png"
+    "main.css": "/Blaze-fm/static/css/main.80d84f6a.chunk.css",
+    "main.js": "/Blaze-fm/static/js/main.b87885cf.chunk.js",
+    "main.js.map": "/Blaze-fm/static/js/main.b87885cf.chunk.js.map",
+    "runtime-main.js": "/Blaze-fm/static/js/runtime-main.1211d2a0.js",
+    "runtime-main.js.map": "/Blaze-fm/static/js/runtime-main.1211d2a0.js.map",
+    "static/js/2.ba5ddd99.chunk.js": "/Blaze-fm/static/js/2.ba5ddd99.chunk.js",
+    "static/js/2.ba5ddd99.chunk.js.map": "/Blaze-fm/static/js/2.ba5ddd99.chunk.js.map",
+    "index.html": "/Blaze-fm/index.html",
+    "static/css/main.80d84f6a.chunk.css.map": "/Blaze-fm/static/css/main.80d84f6a.chunk.css.map",
+    "static/js/2.ba5ddd99.chunk.js.LICENSE.txt": "/Blaze-fm/static/js/2.ba5ddd99.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Blaze-fm/static/media/PublicSans-VariableFont_wght.1db534b6.ttf",
+    "static/media/arrow.58156c59.png": "/Blaze-fm/static/media/arrow.58156c59.png",
+    "static/media/bg1.d0a3e8fa.jpg": "/Blaze-fm/static/media/bg1.d0a3e8fa.jpg",
+    "static/media/bg2.7d8a2d3c.jpg": "/Blaze-fm/static/media/bg2.7d8a2d3c.jpg",
+    "static/media/blaze-fm.cc1662c8.mp3": "/Blaze-fm/static/media/blaze-fm.cc1662c8.mp3",
+    "static/media/logo.ed0d4510.png": "/Blaze-fm/static/media/logo.ed0d4510.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.50138271.js",
+    "static/js/runtime-main.1211d2a0.js",
     "static/js/2.ba5ddd99.chunk.js",
-    "static/css/main.f8f01846.chunk.css",
+    "static/css/main.80d84f6a.chunk.css",
     "static/js/main.b87885cf.chunk.js"
   ]
 }
