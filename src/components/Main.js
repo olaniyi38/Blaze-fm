@@ -128,7 +128,7 @@ return(
              <div>
              <h2 className='coco'>Who we Are</h2>
              <p>
-             BLAZE FM is a proposed radio station aimed to kickstart in 2021
+             BLAZE FM is a proposed radio station aim ed to kickstart in 2021
              with a staff of 15 members on a plot area within the Unilorin Metropolis. The target audience
              are primarily students, residents of ilorin and the adults (16-59 years)
                  </p>
@@ -142,7 +142,7 @@ return(
              </div>
          </div>
          <div className='section3 schedule' id='shows'>
-             <p className='coco'>Our Schedule</p>
+             <p className='coco'>Proposed Schedule</p>
              <img src={arrow} alt="" />
          <div className="container">   
             <div>
@@ -208,7 +208,7 @@ return(
                 </table>
             </div>
             <div>
-                <h2>AfterNoon</h2>
+                <h2>Afternoon</h2>
                 <table>
                   <tr>
                       <th>Name</th>
@@ -289,7 +289,7 @@ return(
                <div>
                    <div className="header">
                    <span className="title">Thank God is friday</span>
-                   <span className='time'>Saturdays from 12:00pm</span>
+                   <span className='time'>Fridays from 4:00pm</span>
                    </div>
                    <p className="description">
 
@@ -298,7 +298,7 @@ return(
                <div>
                    <div className="header">
                    <span className="title">The Adventure</span>
-                   <span className='time'>Saturdays from 12:00pm</span>
+                   <span className='time'>Tuesdays from 4:00pm</span>
                    </div>
                    <p className="description">
 
@@ -307,7 +307,7 @@ return(
                <div>
                    <div className="header">
                    <span className="title">Quiz competition</span>
-                   <span className='time'>Saturdays from 12:00pm</span>
+                   <span className='time'>Wednesdays from 12:00pm</span>
                    </div>
                    <p className="description">
 
@@ -316,7 +316,7 @@ return(
                <div>
                    <div className="header">
                    <span className="title">Share your thoughts</span>
-                   <span className='time'>Saturdays from 12:00pm</span>
+                   <span className='time'>Thursdays from 12:00pm</span>
                    </div>
                    <p className="description">
 
@@ -325,7 +325,7 @@ return(
                <div>
                    <div className="header">
                    <span className="title">Al Mustaqeem</span>
-                   <span className='time'>Saturdays from 12:00pm</span>
+                   <span className='time'>Saturdays from 4:00pm</span>
                    </div>
                    <p className="description">
 
@@ -334,7 +334,7 @@ return(
                <div>
                    <div className="header">
                    <span className="title">The Chronicles</span>
-                   <span className='time'>Saturdays from 12:00pm</span>
+                   <span className='time'>Sundays from 4:00pm</span>
                    </div>
                    <p className="descriptio
                    n"></p>
