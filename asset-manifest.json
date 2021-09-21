@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Blaze-fm/static/css/main.80d84f6a.chunk.css",
-    "main.js": "/Blaze-fm/static/js/main.b87885cf.chunk.js",
-    "main.js.map": "/Blaze-fm/static/js/main.b87885cf.chunk.js.map",
+    "main.js": "/Blaze-fm/static/js/main.fc18630c.chunk.js",
+    "main.js.map": "/Blaze-fm/static/js/main.fc18630c.chunk.js.map",
     "runtime-main.js": "/Blaze-fm/static/js/runtime-main.1211d2a0.js",
     "runtime-main.js.map": "/Blaze-fm/static/js/runtime-main.1211d2a0.js.map",
     "static/js/2.ba5ddd99.chunk.js": "/Blaze-fm/static/js/2.ba5ddd99.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.1211d2a0.js",
     "static/js/2.ba5ddd99.chunk.js",
     "static/css/main.80d84f6a.chunk.css",
-    "static/js/main.b87885cf.chunk.js"
+    "static/js/main.fc18630c.chunk.js"
   ]
 }
